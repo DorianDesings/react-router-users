@@ -13,7 +13,7 @@ const UsersList = ({ initialUsers }) => {
 
 	return (
 		<div>
-			<h1>Listado de usuarios</h1>
+			<h1 style={{ textAlign: 'center' }}>Listado de usuarios</h1>
 			<UserListFilters
 				search={search}
 				setSearch={setSearch}
