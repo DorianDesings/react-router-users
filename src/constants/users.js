@@ -26,7 +26,7 @@ export const USERS = [
 		age: 43,
 		username: 'Ricardo_Rosas',
 		email: 'Ricardo_Rosas22@yahoo.com',
-		profileImage: 'https://randomuser.me/api/portraits/women/57.jpg',
+		profileImage: 'https://randomuser.me/api/portraits/men/57.jpg',
 		job: 'Corporate Usability Architect',
 		address: {
 			street: '025 Graham Glens',
@@ -44,9 +44,9 @@ export const USERS = [
 		title: 'Mr.',
 		name: 'Iván Tamayo',
 		age: 40,
-		username: 'Lesley87',
-		email: 'Suzanne_Tamayo61@yahoo.com',
-		profileImage: 'https://randomuser.me/api/portraits/women/9.jpg',
+		username: 'tamayo87',
+		email: 'Ivan_Tamayo61@yahoo.com',
+		profileImage: 'https://randomuser.me/api/portraits/men/9.jpg',
 		job: 'Lead Communications Designer',
 		address: {
 			street: '8306 Gleichner Lake',
@@ -81,7 +81,7 @@ export const USERS = [
 	},
 	{
 		userId: '4cd323a9-d1ae-4e64-8237-6cb797192c42',
-		title: 'Miss',
+		title: 'Mr',
 		name: 'Pedro Estrada',
 		age: 77,
 		username: 'Pedro29',
