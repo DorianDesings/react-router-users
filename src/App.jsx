@@ -1,5 +1,10 @@
-const App = () => {
-	return <h1>Núcleo de la aplicación</h1>;
-};
+import { BrowserRouter } from 'react-router-dom';
+import Router from './router/Router';
+
+const App = () => (
+	<BrowserRouter>
+		<Router />
+	</BrowserRouter>
+);
 
 export default App;
